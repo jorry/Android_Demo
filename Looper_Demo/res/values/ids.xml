@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="Main_1" type="id"></item>
+    <item name="Main_2" type="id"></item>
+    <item name="Main_3" type="id"></item>
+    <item name="LooperThread_1" type="id"></item>
+    <item name="LooperThread_2" type="id"></item>
+    <item name="LooperThread_3" type="id"></item>
+
+</resources>
